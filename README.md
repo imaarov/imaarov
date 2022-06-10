@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**i am Iman Atarov (a junior developer) **
+**i am Iman**
 
 *currently work with:*
  - PHP
