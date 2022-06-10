@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-**i am Iman Atarov**
+**i am Iman Atarov (a junior developer) **
+
 *currently work with:*
  - PHP
- - MVC
- - Laravel
  - Javascript
- 
