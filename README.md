@@ -4,4 +4,8 @@
 
 *currently work with:*
  - PHP
+ - Laravel
+ - Symfony
+ - SQL
+ - Rust
  - Javascript
