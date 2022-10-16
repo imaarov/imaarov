@@ -5,7 +5,7 @@
 *currently work with:*
  - PHP
  - Laravel
- - Symfony
  - SQL
+ - C
+ - C++
  - Rust
- - Javascript
