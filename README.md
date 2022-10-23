@@ -5,7 +5,6 @@
 *currently work with:*
  - PHP
  - Laravel
- - SQL
  - C
  - C++
  - Rust
