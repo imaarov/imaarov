@@ -6,5 +6,4 @@
  - PHP
  - Laravel
  - C
- - C++
  - Rust
