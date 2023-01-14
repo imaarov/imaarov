@@ -1,4 +1,3 @@
-<p align="center"><img align="center" width="800px" src="https://imaaarov.ir/public/images/BitesizedWeeklyAffenpinscher-mobile(1).gif"></p>
 <h1 align="center">Hi 👋, I'm ImaaaroV</h1>
 
 <h3 align="center">Languages and Tools:</h3>
