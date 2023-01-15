@@ -2,7 +2,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imaaarov&&show_icons=true&theme=transparent" alt="imaaarov" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaaarov&layout=compact&theme=transparent" /></p>
 <h3 align="center"> Other Stats: <h3>
 
 
