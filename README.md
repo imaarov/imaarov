@@ -2,7 +2,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarov&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8&theme=transparent&hide_border=true&title_color=F85D7F&icon_color=F8D866" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarov&hide=html,TSQL,CSS,PLSQL,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8&theme=transparent&hide_border=true&icon_color=F8D866" /></p>
 <h3 align="center"> Other Stats: <h3>
 
 
