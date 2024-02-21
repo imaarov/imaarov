@@ -122,4 +122,11 @@
 </p>
 <!-- activity graph heroku-app end -->
 
+<p align="center">
+<a width="38%" alt="@imaarov's status stats" href="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarov&hide_progress=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarov&hide_progress=false&theme=dark" /></a>
+<a href="https://github.com/imaarov?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=imaarov&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@imaarov's trophy stats"/></a>
+</p>
+
+
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
