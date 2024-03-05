@@ -1,9 +1,10 @@
-<h1>Hello! 👋 Im Imaarov</h1>
+<h1>Hello! 👋 Im iman aka Imaarov</h1>
 <div>
   <br>
   - 🔭 backend developer with couple of years of experience designing and building scalable, high-performance web and applications<br>
   - 🌱 Proficient in back-end technologies like PHP, Laravel, and WordPress(Plugins & Theme)<br>
-</div># 💻 My favorite tools and technologies
+</div>
+<h3>💻 My favorite tools and technologies</h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
