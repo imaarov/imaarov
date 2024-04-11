@@ -12,8 +12,6 @@
       PHP</td>
       <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js-icon" width="65" height="65"><br>
       JavaScript</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" alt="c-icon" width="65" height="65"><br>
-      C</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65"><br>
       Golang</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java"><br>
