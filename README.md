@@ -38,7 +38,7 @@
       jQuery</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"><br>
       PostgreSQL</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=phpstorm" width="48" height="48" alt="VsCode"><br>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="VsCode"><br>
       PHPStorm</td>
     </tr>
   </table><br>
