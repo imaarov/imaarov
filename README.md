@@ -45,10 +45,11 @@
   <br>
 </div>
 <p align="center">
-  
+<!--  
  <a href="https://github.com/imaarov?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=imaarov&amp;theme=gotham&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@imaarov's github-readme-stats"></a>
 <a href="https://github.com/imaarov?tab=stars">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=imaarov&amp;theme=gotham&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@imaarov's github-readme-streak-stats">
 </a>
-</p>
+ </p>
+  -->
 <!-- activity graph heroku-app end -->
