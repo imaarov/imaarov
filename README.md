@@ -4,6 +4,14 @@
   - 🔭 backend developer with couple of years of experience designing and building scalable, high-performance web and applications<br>
   - 🌱 Proficient in back-end technologies like PHP, Laravel, and WordPress(Plugins & Theme)<br>
 </div>
+<div style="text-align: center">
+  <a href="https://wakatime.com/@608c2640-2da4-4ae7-819b-21c17a5b9242" align="center">
+    <img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="wakatime" >
+  </a>
+</div>
+
+
+
 <h3>💻 My favorite tools and technologies</h3>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
