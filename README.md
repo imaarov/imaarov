@@ -1,4 +1,4 @@
-<h1>Hello! 👋 Im iman aka Imaarov</h1>
+<h1>Hello! 👋 Im Iman Atarof aka Imaarov</h1>
 <div>
   <br>
   - 🔭 backend developer with couple of years of experience designing and building scalable, high-performance web and applications<br>
