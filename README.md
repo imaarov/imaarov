@@ -4,11 +4,16 @@
     <img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
     <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=imaarov&color=brightgreen" alt="Profile Views" width="140px"  />
-    <a href="https://wakatime.com/@your_wakatime_id"><img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" width="230px" alt="Wakatime" /></a>
-    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=imaarov&color=55960c&style=for-the-badge&label=Profile%20Views" alt="Profile Views" width="140px" />
 
+<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<br/>
+<a href="https://wakatime.com/@your_wakatime_id">
+    <img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Wakatime" />
+</a>
 </p>
 
 <h2 align="center">About Me</h2>
