@@ -11,7 +11,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 <br/>
-<a href="https://wakatime.com/@your_wakatime_id">
+<a href="https://wakatime.com/608c2640-2da4-4ae7-819b-21c17a5b9242">
     <img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Wakatime" />
 </a>
 </p>
