@@ -7,7 +7,7 @@
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=imaarov&color=55960c&style=for-the-badge&label=Profile%20Views" alt="Profile Views" width="140px" />
 
-<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+<a href="https://github.com/imaarov?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 <br/>
