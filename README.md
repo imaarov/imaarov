@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=imaarov&color=55960c&style=for-the-badge&label=Profile%20Views" alt="Profile Views" width="140px" />
 
 <a href="https://github.com/imaarov?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55960c&style=for-the-badge&labelColor=488206&logo=star"/>
 </a>
 <br/>
 <a href="https://wakatime.com/608c2640-2da4-4ae7-819b-21c17a5b9242">
@@ -37,6 +37,13 @@
     Frontend Development: JavaScript, TypeScript<br>
     Tools: Linux, Vim, Git
 </p>
+
+<h2 align="center">My Hobbies</h2>
+
+<p align="center">
+    Zig
+</p>
+
 
 <h2 align="center">Contact Me</h2>
 
