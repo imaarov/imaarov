@@ -19,7 +19,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Hello! I'm Iman Atarof, also known as Imaarov, a junior backend developer passionate about coding and continuous learning. I specialize in PHP and the Laravel framework, and I enjoy exploring JavaScript and TypeScript along with Vue.js for frontend development.</p>
+<p align="center">Hello! I'm Iman Atarof, also known as Imaarov, a junior backend developer passionate about coding and continuous learning. I specialize in PHP and the Laravel framework, and I enjoy exploring JavaScript along with Vue.js for frontend development.</p>
 
 <h3 align="center">Languages and Frameworks</h3>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
     Backend Development: PHP, Laravel<br>
-    Frontend Development: JavaScript, TypeScript<br>
+    Frontend Development: JavaScript<br>
     Tools: Linux, Vim, Git
 </p>
 
