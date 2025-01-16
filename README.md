@@ -37,14 +37,6 @@
     Tools: Linux, Vim, Git
 </p>
 
-<h2 align="center">My Hobbies</h2>
-
-<p align="center">
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-
-</p>
-
-
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
