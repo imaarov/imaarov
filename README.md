@@ -14,7 +14,7 @@
 <!-- <a href="https://wakatime.com/608c2640-2da4-4ae7-819b-21c17a5b9242">
     <img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Wakatime" />
 </a> -->
-<a href="https://wakatime.com/@608c2640-2da4-4ae7-819b-21c17a5b9242"><img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Total time coded since Jan 15 2023" /></a> [2024-now]
+<a href="https://wakatime.com/@608c2640-2da4-4ae7-819b-21c17a5b9242"><img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Total time coded since Jan 15 2023" /></a>
 </p>
 
 <h2 align="center">About Me</h2>
