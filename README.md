@@ -11,15 +11,12 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55961c&style=for-the-badge&labelColor=488206&logo=star"/>
 </a>
 <br/>
-<!-- <a href="https://wakatime.com/608c2640-2da4-4ae7-819b-21c17a5b9242">
-    <img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Wakatime" />
-</a> -->
 <a href="https://wakatime.com/@608c2640-2da4-4ae7-819b-21c17a5b9242"><img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Total time coded since Jan 15 2023" /></a>
 </p>
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Hello! I'm Iman Atarof, also known as Imaarov, a junior PHP developer passionate about coding and continuous learning. I specialize in PHP and the Laravel framework.</p>
+<p align="center">Hello! I'm Iman Atarof, also known as Imaarov, a junior PHP developer passionate about coding and continuous learning.</p>
 
 <h3 align="center">Languages and Frameworks</h3>
 
@@ -27,7 +24,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <!--     <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" /> -->
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<!--     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> -->
 </p>
 
 <h2 align="center">My Work</h2>
