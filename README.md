@@ -26,14 +26,6 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-<h2 align="center">My Work</h2>
-
-<p align="center">
-    Backend Development: PHP, Laravel<br>
-    Frontend Development: JavaScript<br>
-    Tools: Linux, Vim, Git
-</p>
-
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
@@ -41,7 +33,7 @@
     <a href="https://www.linkedin.com/in/imaarov-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/imaarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
+<h2></h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=imaarov&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
