@@ -1,39 +1,32 @@
-<h1 align="center">Hi there, I'm Iman Atarof, aka imaarov 👋</h1>
+Hello! I'm **Iman Atarof**, also known as **imaarov**. I'm a junior backend developer.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Editor-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-    <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <br/>
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=imaarov&color=55960c&style=for-the-badge&label=Profile%20Views" alt="Profile Views" width="140px" />
+## About Me
 
-<a href="https://github.com/imaarov?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/imaarov?color=55961c&style=for-the-badge&labelColor=488206&logo=star"/>
-</a>
-<br/>
-<a href="https://wakatime.com/@608c2640-2da4-4ae7-819b-21c17a5b9242"><img src="https://wakatime.com/badge/user/608c2640-2da4-4ae7-819b-21c17a5b9242.svg" alt="Total time coded since Jan 15 2023" /></a>
-</p>
+- **Location:** Iran, Isfahan
+- **Time Zone:** UTC +03:30
+- **Website:** [imaarov.ir](https://imaarov.ir)
+- **LinkedIn:** [in/imaarov-](https://www.linkedin.com/in/imaarov-)
+- **Mastodon:** [@imaarov@phpc.social](https://phpc.social/@imaarov)
 
-<h2 align="center">About Me</h2>
+## Skills
 
-<p align="center">Hello! I'm Iman Atarof, also known as Imaarov, a junior PHP developer passionate about coding and continuous learning.</p>
+- **Backend Development:** PHP, Symfony, Laravel
+- **Tools & Platforms:** Linux, Vim, Git
 
-<h3 align="center">Languages and Frameworks</h3>
+## Notable Projects
 
-<p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<!--     <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" /> -->
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
+Here are some of my notable repositories:
 
-<h2 align="center">Contact Me</h2>
+- [**Patterns**](https://github.com/imaarov/Patterns): A collection of software pattern samples, including design and architectural patterns.
+- [**DBA.md**](https://github.com/imaarov/DBA.md): Comprehensive Markdown documentation for Database Administrators.
+- [**LPIC.md**](https://github.com/imaarov/LPIC.md): Markdown documentation for Linux Professional Institute Certification.
 
-<p align="center">
-    <a href="mailto:info@imaarov.ir"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/imaarov-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://t.me/imaarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-<h2></h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=imaarov&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Feel free to explore these repositories to see my work in action.
+
+## Contact Me
+
+I'm always open to collaboration and discussions. You can reach out to me via:
+
+- **Email:** [info@imaarov.ir](mailto:info@imaarov.ir)
+- **LinkedIn:** [in/imaarov-](https://www.linkedin.com/in/imaarov-)
+- **Mastodon:** [@imaarov@phpc.social](https://phpc.social/@imaarov)
