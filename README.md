@@ -6,6 +6,7 @@ Hello! I'm **Iman Atarof**, also known as **imaarov**. I'm a junior backend deve
 - **Time Zone:** UTC +03:30
 - **Website:** [imaarov.ir](https://imaarov.ir)
 - **LinkedIn:** [in/imaarov-](https://www.linkedin.com/in/imaarov-)
+- **Medium** [medium.com/@imaarov](https://medium.com/@imaarov)
 - **Mastodon:** [@imaarov@phpc.social](https://phpc.social/@imaarov)
 
 ## Skills
